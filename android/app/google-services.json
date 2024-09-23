@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096799486719",
+    "project_id": "noobiitian-98d95",
+    "storage_bucket": "noobiitian-98d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096799486719:android:d82aed41627447d28402ca",
+        "android_client_info": {
+          "package_name": "com.example.propose_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcjTZYSMn6bb4HsX5TFhx6MZzq34u-0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
